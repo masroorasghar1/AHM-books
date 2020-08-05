@@ -134,7 +134,7 @@ function showSlides(n) {
         
         <div id="ahm_content_right">
         	<div class="ahm_product_box">
-            	<h1>Photography  <span>(by Best Author)</span></h1>
+            	<h1>Photography <span>(by Best Author)</span></h1>
    	      <img src="images/templatemo_image_01.jpg" alt="image" />
                 <div class="product_info">
                 	<p>Etiam luctus. Quisque facilisis suscipit elit. Curabitur...</p>
@@ -198,8 +198,8 @@ function showSlides(n) {
 <div id="ahm_footer">
     
 	       <a href="subpage.html">Home</a> | <a href="subpage.html">Search</a> | <a href="subpage.html">Books</a> | <a href="#">New Releases</a> | <a href="#">FAQs</a> | <a href="#">Contact Us</a><br />
-        Copyright © 2020 <a href="#"><strong>AHM books</strong></a> | <a href="http://www.iwebsitetemplate.com" target="_parent">Website Templates</a> by <a href="http://www.templatemo.com" target="_parent" title="free css templates">Free CSS Templates</a>	
-</div> 
+        Copyright © 2020 <a href="#"><strong>AHM books</strong></a>  	
+</div>
     <!-- end of footer -->	
 
 </body>

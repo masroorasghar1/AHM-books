@@ -69,7 +69,7 @@ body{
             <li><a href="subpage.html">Books</a></li>            
             <li><a href="subpage.html">New Releases</a></li>  
             <li><a href="#">Company</a></li> 
-            <li><a href="#">Contact</a></li>
+            <li><a href="#">Contact - example change </a></li>
     	</ul>
     </div> <!-- end of menu -->
 	

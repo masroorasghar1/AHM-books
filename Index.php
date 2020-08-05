@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />	
 
 <title>AHM Books</title>
-
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>	
 <link rel="stylesheet" type="text/css" href= "ahm.css">
@@ -50,11 +50,15 @@ function showSlides(n) {
 	<div id="ahm_menu">
     	<ul>
             <li><a href="index.html" class="current">Home</a></li>
-            <li><a href="subpage.html">Search</a></li>
-            <li><a href="subpage.html">Books</a></li>            
+            <li><a href="subpage.html">Books</a></li>
+			<li><a href="subpage.html">Genres</a></li>
             <li><a href="subpage.html">New Releases</a></li>  
             <li><a href="#">Company</a></li> 
             <li><a href="#">Contact</a></li>
+			<li id="search-bar"> <form action="/action_page.php">
+      <input type="text" placeholder="Search.." name="search">
+      <button type="submit"><span class="glyphicon glyphicon-search"></span><i class="fa fa-search"></i></button>
+    </form></li>
     	</ul>
     </div> <!-- end of menu -->
 	

@@ -159,13 +159,13 @@ body{
 }	
 
 /* content */
-#ahm_content {
+#templatemo_content {
 	clear: both;
 	width: 920px;
 	padding: 0 20px;
 }
 
-#ahm_content #ahm_content_left {
+#templatemo_content #templatemo_content_left {
 	float: left;
 	width: 188px;
 	padding: 10px;
@@ -173,20 +173,20 @@ body{
 	border: 1px solid #212120;
 }
 
-#ahm_content #ahm_content_right {
+#templatemo_content #templatemo_content_right {
 	float: right;
 	width: 670px;
 }
 
 
-#ahm_content_left .ahm_content_left_section{
+#templatemo_content_left .templatemo_content_left_section{
 	clear: both;
 	padding-bottom: 10px;
 	border-bottom: 1px solid #2b2b2a;
 	margin-bottom: 20px;
 }
 
-.ahm_content_left_section h1 {
+.templatemo_content_left_section h1 {
 	font-size: 14px;
 	color: #cbc750;
 	padding: 0 0 5px 0;
@@ -194,23 +194,23 @@ body{
 	border-bottom: 1px dotted #cbc750;
 }
 
-.ahm_content_left_section ul {
+.templatemo_content_left_section ul {
 	padding: 0;
 	margin: 0;
 }
 
-.ahm_content_left_section ul li{
+.templatemo_content_left_section ul li{
 	padding: 0 0 3px 10px;	
 	list-style: none;
 }
 
-.ahm_content_left_section ul li a{
+.templatemo_content_left_section ul li a{
 	font-weight: normal;
 	text-decoration: none;
 	color: #969547;
 }
 
-.ahm_content_left_section li a:hover, .ahm_content_left_section li .current{
+.templatemo_content_left_section li a:hover, .templatemo_content_left_section li .current{
 	color: #fcf88e;
 }
 
@@ -218,7 +218,7 @@ body{
 
 
 
-#ahm_content_right .ahm_product_box {
+#templatemo_content_right .templatemo_product_box {
 	float: left;
 	width: 303px;
 	height: 210px;
@@ -226,59 +226,59 @@ body{
 	border: 1px solid #333;
 }
 
-#ahm_content_right h1 {
+#templatemo_content_right h1 {
 	padding: 10px;
 	margin: 0 0 20px 0;
 	font-size: 15px;
 	color: #cbc750;
-	background: url(images/ahm_h1_bg.jpg);
+	background: url(images/templatemo_h1_bg.jpg);
 }
 
-#ahm_content_right h2 {
+#templatemo_content_right h2 {
 	padding: 0 0 0 0;
 	margin: 0 0 20px 0;
 	font-size: 12px;
 	color: #e6e154;
 }
 
-#ahm_content_right h3 {
+#templatemo_content_right h3 {
 	padding: 0;
 	margin: 0 0 20px 0;
 	font-size: 18px;
 	color: #85391f;
 }
 
-#ahm_content_right ul {
+#templatemo_content_right ul {
 	margin: 0 0 20px 0;
 	padding: 0 0 0 20px;
 	list-style: none;
 }
 
-#ahm_content_right li {
+#templatemo_content_right li {
 	padding: 0 0 3px 0;
 }
 
-#ahm_content_right .image_panel {
+#templatemo_content_right .image_panel {
 	float: left;
 	width: 100px;
 	margin-right: 20px;
 }
 
-#ahm_content_right p {
+#templatemo_content_right p {
 	text-align: justify;
 	padding: 0 0 8px 0;
 }
 
-.ahm_product_box h1 span {
+.templatemo_product_box h1 span {
 	font-weight: normal;
 }
 
-.ahm_product_box img {
+.templatemo_product_box img {
 	float: left;
 	margin-right: 20px;
 }
 
-.ahm_product_box .product_info {
+.templatemo_product_box .product_info {
 	float: left;
 	width: 180px;
 }

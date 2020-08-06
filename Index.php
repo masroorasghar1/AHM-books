@@ -45,7 +45,9 @@ function showSlides(n) {
 
 </head>
 <!--end of head-->
-
+	
+	
+<!-- content started-->
 <body>
 <div id="ahm_container">
 	<div id="ahm_menu">

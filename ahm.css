@@ -14,8 +14,8 @@ body{
 #ahm_container{
 	width: 950px;
 	margin: 0 auto;
-	padding: 0 10px;
-	background: #1c1c1b url(images/templatemo_bg.jpg) repeat-y;
+	padding: 0 auto;
+	background: #000000;
 }	
 /* menu */
 
